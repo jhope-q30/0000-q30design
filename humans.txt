@@ -1,0 +1,23 @@
+/* TEAM */
+	
+	Designer: Tejashri Kapure
+	Twitter: @TejashriKapure
+	From: Toronto, Ont. Canada
+	
+	Designer: Darrell Corriveau
+	Twitter: @DCorriveau
+	From: Toronto, Ont. Canada
+	
+	Developer/Dev: Justin Hope
+	Twitter: @dariat28
+	From: Toronto, Ont. Canada
+	
+/* THANKS */
+
+	From: Toronto, Ont. Canada
+	
+/* SITE */
+	Last update:2018
+	Language: English
+	Doctype: HTML5
+	IDE: Illustrator, Photoshop, Random text editors
